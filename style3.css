@@ -1,0 +1,19 @@
+
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.welcome h2{
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    background-color:rgba(13, 82, 4, 0.993) ;
+    border-radius: 10px;
+  }
+  
+  .welcome h2:hover{
+    transform: scale(1.01);
+    background-color: rgb(196, 219, 63);
+  }
+  
+  
